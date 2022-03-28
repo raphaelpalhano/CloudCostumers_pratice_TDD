@@ -9,7 +9,7 @@ public class UsersController : ControllerBase
 {
    
 
-    public UsersController(IUsersService usersService)
+    public UsersController()
     {
        
 
